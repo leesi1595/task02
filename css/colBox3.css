@@ -1,0 +1,44 @@
+.colBox3-main {
+	background: #f6f6f6;
+	opacity:0.6;
+	filter:Alpha(opacity=60); /* IE8 and earlier */
+}
+.colBox3-main .colBox3-col-group {
+	height: 1170px;
+	padding-bottom: 100px;
+}
+.colBox3-main .colBox-col {
+	float: left;
+	width: 390px;
+	height: 1370px;
+}
+.colBox3-main .col-1 {
+	height: 390px;
+	background:#e5e5e5;
+}
+.colBox3-main .col-2 {
+	height: 390px;
+	background:#c7c7c7;
+}
+.colBox3-main .col-un {
+	opacity:1;
+	background:#2c2c2c;
+}
+.colBox3-main .col-info {
+	width: 390px;
+	height: 390px;
+	padding-top: 40%;
+	text-align: center;
+	color: #fff;
+}
+.colBox3-main .col-title {
+	font-size: 22px;
+	font-weight: bold;
+}
+.colBox3-main .col-text {
+	display: block;
+	margin-top: 15px;
+	font-size: 10px;
+	font-weight: bold;
+	text-transform: uppercase;
+}

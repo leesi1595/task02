@@ -1,0 +1,91 @@
+.mapbg {
+	height: 570px;
+	background: #e2e2e2;
+	opacity: 0.6;
+	filter:Alpha(opacity=60); /* IE8 and earlier */
+
+}
+.mapbg .map-located {
+	
+	padding-top: 269px;
+	
+}
+.mapbg .map-located a {
+	width: 22px;
+	height: 32px;
+	margin: 0 auto;
+	background: url("../images/map-located.png") no-repeat;
+}
+.info {
+	height: 612px;
+	background: #f6f6f6;
+	opacity: 0.6;
+	filter:Alpha(opacity=60); /* IE8 and earlier */
+}
+.info .info-text {
+	float: left;
+	padding-top: 100px;
+}
+.info .info-t {
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 36px;
+	text-transform: capitalize;
+}
+.info .info-p {
+	font-size: 14px;
+	line-height: 22px;
+
+}
+.info .info-p-f {
+	margin-bottom: 38px;	
+}
+.info .info-title {
+	font-size: 16px;
+	font-weight: bold;
+}
+.info-p-o {
+	margin-bottom: 14px;
+}
+.info .info-message {
+	float: right;
+	padding-top: 100px;
+}
+.info .info-message input {
+	font-size: 16px;
+	padding-left: 16px;
+	margin-bottom: 30px;
+}
+.info .info-message input:last-child {
+	padding-left: 0;
+}
+.info .i-col {
+	width: 300px;
+	height: 50px;
+	margin-left: 30px;
+}
+.info .i-col:first-child {
+	margin-left: 0;
+}
+.info .i-row {
+	display: block;
+	width: 654px;
+	height: 50px;
+}
+.info .text {
+	width: 656px;
+	resize: none;
+	padding-left: 16px;
+	padding-top: 16px;
+	font-size: 16px;
+}
+.info .submit {
+	display: block;
+	width: 180px;
+	height: 54px;
+	margin-top: 30px;
+	text-align: center;
+	background: #252525;
+	color: #fff;
+	cursor: pointer;
+}

@@ -1,0 +1,116 @@
+.colorFill {
+	height: 570px;
+	background:#eeeeee;
+	opacity: 0.6;
+	filter:Alpha(opacity=60); /* IE8 and earlier */
+}
+.main-text {
+	height: 452px;
+}
+.main-text .text-1 {
+	float: left;
+	width: 585px;
+	font-size: 36px;
+}
+.main-text .text-1 span {
+	font-family: Tahoma Arial;
+	font-style: oblique;
+}
+.main-text .text-2 {
+	float: right;
+	width: 585px;
+	font-size: 25px;
+}
+.main-text .p-nor {
+	margin-top: 32px;
+}
+.main-text .text-sign {
+	width: 223px;
+	height: 57px;
+	margin-top: 34px;
+	background: url("../images/sign.png") no-repeat;
+}
+.main-icon {
+	height: 260px;
+	background: #191919;
+}
+.main-icon .icon-numbers {
+	width: 980px;
+	padding-top: 107px;
+	margin: 0 auto;
+	color: #fff;
+	overflow: hidden;
+}
+.main-icon .item {
+	float: left;
+	margin-right: 40px;
+}
+.main-icon .item:last-child {
+	margin-right: 0;
+}
+.main-icon .num-icon1 {
+	float: left;
+	height: 45px;
+	width: 45px;
+	margin-right: 25px;
+	background: url("../images/am-projects.jpg") no-repeat;
+}
+.main-icon .num-icon2 {
+	float: left;
+	height: 45px;
+	width: 45px;
+	margin-right: 25px;
+	background: url("../images/am-hours.jpg") no-repeat;
+}
+.main-icon .num-icon3 {
+	float: left;
+	height: 45px;
+	width: 45px;
+	margin-right: 25px;
+	background: url("../images/am-star.jpg") no-repeat;
+}
+.main-icon .num-icon4 {
+	float: left;
+	height: 45px;
+	width: 45px;
+	margin-right: 25px;
+	background: url("../images/am-like.jpg") no-repeat;
+}
+.main-icon .num-info p {
+	font-size: 14px;
+	line-height: 21px;
+	text-transform: uppercase;
+}
+.main-icon .num-info {
+	float: right;
+}
+.main-contact {
+	height: 398px;
+	text-align: center;
+}
+.main-contact .con-title {
+	font-size: 38px;
+	line-height: 42px;
+	margin-top: 90px;
+	margin-bottom: 32px;
+}
+.main-contact .con-text {
+	font-size: 12px;
+	line-height: 18px;
+	margin-bottom: 40px;
+}
+.main-contact .con-btn {
+	display: inline-block;
+	width: 180px;
+	height: 34px;
+	color: #fff;
+	font-size: 14px;
+	line-height: 14px;
+	padding-top: 20px;
+	text-transform: uppercase;
+	vertical-align: middle;
+	background: #252525;
+}
+.main-contact .con-btn {
+	
+}
